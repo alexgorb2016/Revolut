@@ -1,0 +1,1 @@
+if pgrep supervisord; then sudo pkill supervisord; fi
